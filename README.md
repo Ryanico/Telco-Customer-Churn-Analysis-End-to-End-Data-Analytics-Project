@@ -3,8 +3,6 @@
 
 ## End-to-End Data Analytics Project | Python • SQL • Power BI
 
-![Executive Overview](images/executive-overview.png)
-
 ---
 
 ## 📌 Project Overview
