@@ -1,6 +1,7 @@
 # 📊 Telco Customer Churn Analysis
 
 ## End-to-End Data Analytics Project | Python • SQL • Power BI
+
 ---
 
 ## 📌 Project Overview
